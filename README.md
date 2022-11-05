@@ -4,8 +4,12 @@ Add the current website to your [Servas](https://github.com/beromir/servas) inst
 
 ## Installation
 
-- Add the extension to your
-  browser: https://addons.mozilla.org/firefox/downloads/file/4026544/d19dadc6b89c4bad95c3-1.0.xpi
+- Download the extension (.xpi file) from the releases page.
+- Open the extensions page in Firefox (about:addons).
+- Click on the settings icon on the right side.
+- Click on `Install Add-on From File`.
+- Select the downloaded extension.
+- Add the extension to your Firefox browser.
 - Open the profile menu in Servas and click on API Tokens.
 - Create a new token with the `create` permission.
 - Open the extension settings.
